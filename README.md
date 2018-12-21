@@ -1,6 +1,8 @@
 # ez-highchart-drilldown
 A drilldown charting widget that drills down into the data based on the 'groupby' attribute.  Uses highcharts for the base charting.
 
+Copyright (c) 2018 Martin Israelsen
+@author Martin Israelsen <martin.israelsen@gmail.com>
 
 ## Download from npm using yarn into your node_modules directory.  STRONG WARNING:  the --flat option is very important!  Do not leave out the --flat option to yarn! :) 
 ```
