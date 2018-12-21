@@ -35,5 +35,5 @@ SOFTWARE.
 
 All files located in the node_modules and external directories are
 externally maintained libraries used by this software which have their
-own licenses (most notably 'highcharts'); we recommend you read them, as their terms may differ from
+own licenses; we recommend you read them, as their terms may differ from
 the terms above.
