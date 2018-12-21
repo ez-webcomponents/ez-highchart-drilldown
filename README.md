@@ -17,7 +17,7 @@ $ yarn add @ez-webcomponents/ez-highchart-drilldown --flat
 
 ##  Include ez-highchart-drilldown-loader.js to use as stand-alone bundled component 
 or 
-##  Include ez-highchart-drilldown.js directly if including in a polymer project. 
+##  Import ez-highchart-drilldown.js directly if using in a build. 
 ```
 <!doctype html>
 <html lang="en">
