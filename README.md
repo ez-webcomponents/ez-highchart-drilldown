@@ -5,12 +5,12 @@ A drilldown charting widget that drills down into the data based on the 'groupby
 ## Download from npm using yarn into your node_modules directory.  STRONG WARNING:  the --flat option is very important!  Do not leave out the --flat option to yarn! :) 
 ```
 $ yarn upgrade --flat
-$ yarn add @sdl-web/ez-highchart-drilldown --flat
+$ yarn add @ez-webcomponents/ez-highchart-drilldown --flat
 ```
 
 ##  Run the es6 version of the Demo (Assuming you installed at SERVER_ROOT using npm)
 ```
-{SERVER_ROOT}/node_modules/@sdl-web/ez-highchart-drilldown/build-demo/es6-bundled/demo/index.html
+{SERVER_ROOT}/node_modules/@ez-webcomponents/ez-highchart-drilldown/build-demo/es6-bundled/demo/index.html
 ```
 
 ##  Include ez-highchart-drilldown-loader.js to use as stand-alone bundled component 
@@ -25,10 +25,10 @@ or
 
     <title>ez-highchart-drilldown demo</title>
     <!-- If using as a stand-alone-component:  use ez-highchart-drilldown-loader.js
-    <script src="./node_modules/@sdl-web/ez-highchart-drilldown/build-component/ez-highchart-drilldown-loader.js"></script> -->
+    <script src="./node_modules/@ez-webcomponents/ez-highchart-drilldown/build-component/ez-highchart-drilldown-loader.js"></script> -->
 
     <!-- If using in an existing build project:  use ez-highchart-drilldown.js directly-->
-    <!-- <script type="import" src="@sdl-web/ez-highchart-drilldown/src/components/ez-highchart-drilldown.js"></script>  -->
+    <!-- <script type="import" src="@ez-webcomponets/ez-highchart-drilldown/src/components/ez-highchart-drilldown.js"></script>  -->
 
     <!-- Now add ez-highchart-drilldown to html section -->
 
