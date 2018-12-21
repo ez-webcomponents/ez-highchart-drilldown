@@ -1,6 +1,6 @@
 {
   "name": "@ez-webcomponents/ez-highchart-drilldown",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A drilldown charting widget that drills down into the data based on the 'groupby' attribute.  Uses highcharts for the base charting.",
   "main": "index.js",
   "repository": "git+https://github.com/ez-webcomponents/ez-highchart-drilldown.git",
